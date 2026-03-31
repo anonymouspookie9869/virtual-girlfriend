@@ -1,0 +1,18 @@
+{
+  "short_name": "AI GF",
+  "name": "AI Girlfriend",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJpY29uLWdyYWRpZW50IiB4MT0iMC41IiB5MT0iMCIgeDI9IjAuNSIgeTI9IjEiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmOWE4ZDQiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZGIyNzc3IiAvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iOTYiIGZpbGw9IiMxZjI5MzciIC8+PHBhdGggZmlsbD0idXJsKCNpY29uLWdyYWRpZW50KSIgZD0iTTI1NiA0NDhsLTI4LjI4LTI1LjI2QzExOS41OCAzMjIuNDYgNDggMjU4LjYyIDQ4IDE3NkM0OCAxMDQuNzQgMTA0Ljc0IDQ4IDE3NiA0OGM0OC4yNCAwIDkxLjM4IDI3LjM0IDExMiA2OC4zOEMzMTAuNjIgNzUuMzQgMzUzLjc2IDQ4IDQwMiA0OGM3MS4yNiAwIDEyOCA1Ni43NCAxMjggMTI4IDAgODIuNjItNzEuNTggMTQ2LjQ2LTE3OS43MiAyNDYuNzRMMjU2IDQ0OHoiIHRyYW5zZm9ybT0ic2NhbGUoMC44KSB0cmFuc2xhdGUoNjQsIDY0KSIgLz48L3N2Zz4=",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "scope": "/",
+  "display_override": ["standalone", "minimal-ui"],
+  "display": "standalone",
+  "theme_color": "#db2777",
+  "background_color": "#111827"
+}
